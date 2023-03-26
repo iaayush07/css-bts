@@ -1,7 +1,13 @@
+# 3 type of css 
+
+(1) Author css  
+(2) Browser css
+(3) User css
+
 # 3 important main factor in css
 
 => Importance : to override any conflicting properties that are applied to the same element.
-=> Specificity : which CSS rules should be applied to an element when multiple CSS rules target the same element
+=> Specificity : which CSS rules should be applied to an element when multiple CSS rules target the same element (Inline,ID,Class,Element)
 => Source order : last declaration code will override other declaration and will be applied
 
 # How css values are processed?

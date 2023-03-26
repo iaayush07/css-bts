@@ -1,14 +1,35 @@
+/* which css apply-- */
+/* h1 {
+    color: yellow;
+} */
+
+/* specificity */
+
+#text h2 {
+    color: yellow;
+}
+
+h2 {
+    color: red;
+}
+
+.specificity h2 {
+    color: blue;
+}
+
 /* css value process */
-section{
+/* section {
     width: 280px;
     border: 1px solid black;
     font-size: 1.5rem;
 }
-p{
+
+p {
     width: 140px;
     background-color: red;
 }
-.hello{
+
+.hello {
     width: 60%;
     background: yellow;
-}
+} */
